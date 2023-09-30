@@ -1,0 +1,5 @@
+﻿  App_1.cpp
+D:\university\5 semester\ОСиСП\лабы\lab_1\lab_1\App_1.cpp(191,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\university\5 semester\ОСиСП\лабы\lab_1\lab_1\App_1.cpp(297,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\university\5 semester\ОСиСП\лабы\lab_1\lab_1\App_1.cpp(324,57): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
+  lab_1.vcxproj -> D:\university\5 semester\ОСиСП\лабы\lab_1\x64\Debug\lab_1.exe
