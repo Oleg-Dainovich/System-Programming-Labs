@@ -1,9 +1,0 @@
-﻿  App_1.cpp
-D:\university\5 semester\ОСиСП\лабы\lab_1\lab_1\App_1.cpp(239,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\university\5 semester\ОСиСП\лабы\lab_1\lab_1\App_1.cpp(290,57): warning C4312: 'type cast': conversion from 'int' to 'HMENU' of greater size
-  Generating code
-  2 of 81 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  lab_1.vcxproj -> D:\university\5 semester\ОСиСП\лабы\lab_1\x64\Release\lab_1.exe
